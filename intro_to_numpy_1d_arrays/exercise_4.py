@@ -1,5 +1,6 @@
 import numpy as np
 
+# pylint: disable=pointless-string-statement
 """
 EXERCISE 4
 ------------------------
@@ -11,9 +12,12 @@ You can use python's help function to remind yourself of the
     arguments that `rng.integers` takes.
 
     * Instantiate the random number generator `rng`.
+
     * Draw `N_ROLLS` dice rolls (from 1, 6)
+
     * The variable `WIN` contains how much you win if you draw `6`
         * Calculate your winnings
+
     * Now set the random seed to `42`
         * Will you get the same result as other people in the session?
         * Why or why not?

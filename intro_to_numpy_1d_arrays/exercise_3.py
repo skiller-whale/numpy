@@ -2,6 +2,7 @@ import numpy as np
 from utils import load_temperature_dataset
 
 
+# pylint: disable=pointless-string-statement
 """
 EXERCISE 3
 ------------------------
@@ -11,7 +12,9 @@ The function `load_temperature_dataset` loads a dataset of temperatures
     of 20 numpy arrays (each of size 12).
 
     * Calculate the average temperature for each month for the town.
+
     * Uncomment the tests below to test your results.
+
     * What's the average temperature in July?
 
 """

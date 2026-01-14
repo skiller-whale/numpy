@@ -8,7 +8,7 @@ EXERCISE 2: Part 1
 * Instantiate the random number generator `rng` using `np.random.default_rng`.
 
 The function `rng.integers` can be used to draw
-    random integers in a range. 
+    random integers in a range.
 
     * Use python's help function to find out what
         arguments `integers` takes.
